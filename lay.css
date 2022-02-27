@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(221, 214, 214);
+    margin: 0px;
+}
+.head{
+    text-align: center;
+    background-color: rgb(129, 206, 236);
+    padding: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.nav{
+    overflow: hidden;
+    background-color: rgb(207, 236, 245);
+    padding: 20px;
+    text-align: center;
+}
+.nav a{
+     display: inline;
+    color: rgb(0, 0, 0);
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-style: italic;
+}
+.nav a:hover{
+    background-color:#fff ;
+    color: rgb(0, 0, 0);
+}
+.row{
+    display: table;
+    clear: both;
+}
+.column{
+    float: left;
+    background-color: rgb(140, 192, 216);
+    width: 31.09%;
+    height: 30.33%;
+    padding: 15px;
+    border: 2px solid #fff;
+    text-align: center;
+    
+}
+.column h3{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.footer{
+    background-color: rgb(62, 125, 161);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}

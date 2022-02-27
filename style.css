@@ -1,0 +1,64 @@
+body{
+    background-color: silver;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 20px;
+}
+h1 {
+    background-color: #ffffff;
+    color: white;
+    padding: inherit;
+    background-color: hsla(0,100%,100%,0.5);
+  
+}
+p{
+    padding: 5px;
+    margin: 0px;
+}
+p.zero{
+    background-color: lightcoral;
+}
+p.one{
+    background-color: lightpink;
+}
+p.two{
+    background-color: rgb(133, 133, 10);
+}
+p.three{
+    background-color: lightsalmon;
+}
+p.four{
+    background-color: rgb(62, 173, 164);
+    text-shadow: blue;
+}
+p.five{
+    background-color: lightslategrey;
+}
+p.six{
+    background-color: lightgreen;
+}
+p.seven{
+    background-color: green;
+    text-shadow: 1px 1px 0px #3584df;
+}
+p.eight{
+    background-color: lightskyblue;
+}
+p.nine{
+    background-color: lightblue;
+}
+p.ten{
+    background-color: lightsteelblue;
+}
+p.elven{
+    background-color: darkblue;
+}
+p.twelve{
+    background-color: blueviolet;
+}
+p.thirdteen{
+    background-color: blanchedalmond;
+}
+p.fourteen{
+    background-color: bisque;
+}

@@ -1,0 +1,41 @@
+body{
+      background-color: rosybrown;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+
+}
+.vertical ul{
+    list-style-type: none;
+    background-color: seashell;
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+.vertical li a{
+    color: slategrey;
+    padding: 8px 8px 8px 8px; 
+    display: block;
+    text-decoration: none;
+}
+.vertical li a:hover{
+    color: tomato;
+    background-color: yellow;
+}
+.horizontal ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.horizontal li{
+    float: left;
+}
+.horizontal li a{
+    color: teal;
+    padding: 8px;
+    display: block;
+    text-decoration: none;
+}
+.horizontal li a:hover{
+    color: yellowgreen;
+    background-color: violet;
+}

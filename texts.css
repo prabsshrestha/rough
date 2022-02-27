@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(117, 58, 255);
+    margin: 20px;
+}
+.one{
+    background-color: cadetblue;
+    padding: 2px 2px 2px 2px ;
+    border: 2px solid #000;
+}
+#text1{
+    text-align: left;
+    padding:  2px 2px 2px 2px;
+   clear: both;
+}
+#text2{
+    text-align: right;
+    padding:  1px 1px 1px 1px;
+}
+#text2 li{
+    display: inline;
+}
+

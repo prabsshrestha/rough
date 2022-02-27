@@ -1,0 +1,38 @@
+body{
+    margin: 25px;
+    background-color: salmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.polaroid{
+    background-color: white;
+    width: 50%;
+    margin:auto;
+    border: 10px solid rgb(19, 18, 18);
+    border-radius: 25px;
+}
+.onthebox{
+    text-align: center;
+    padding: 10px 20px;
+}
+.next{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
+    border: 10px;
+    
+}
+.same{
+    text-align: center;
+    padding: 10px 20px;
+}
+.polaroid img{
+    border-radius: 25px;
+}
+
+.polaroid:hover{
+    margin-left: 100px;
+
+}
+

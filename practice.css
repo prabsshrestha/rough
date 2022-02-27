@@ -1,0 +1,89 @@
+body{
+    background-color: antiquewhite;
+    width: 1120px;
+    padding:2px 2px 2px 2px ;
+    border: 2px double #000;
+    font-style: italic;
+    margin-left: 5px;
+    margin-top: 10px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#header{
+    text-decoration: rgb(50, 50, 163);
+    padding: 2px 2px 2px 2px;
+    border: 2px double #000;
+    background-color: cadetblue;
+    text-align: center;
+    margin: 2px;
+}
+#content{
+    height: 100%;
+    text-transform: unset;
+    text-shadow: rgb(15, 241, 45);
+    font-weight: bold;
+
+}
+li{
+    display: inline;
+    padding: 5px;
+}
+#list{
+    background-color: yellow;
+    padding: 2px 2px 2px 2px ;
+    margin: 2px;
+    text-align: center;
+    border: 2px double #000;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+#features{
+    background-color: aquamarine;
+    padding: 2px 2px 2px 2px ;
+    text-align: center;
+    text-decoration: blue;
+    font-weight: inherit;
+    border: 2px solid #000;
+    margin: 2px;
+}
+#one{
+    background-color: #efefef;
+    width: 370px;
+    padding:2px 2px 2px 2px ;
+    float: left;
+    border: 2px solid #000;
+    text-align: center;
+    margin: 2px;
+    margin-right: 9px;
+}
+#two{
+    background-color: #ca6363;
+    width: 350px;
+    padding:2px 2px 2px 2px ;
+    float: left;
+    border: 2px solid #000;
+    text-align: center;
+    margin: 2px;
+    margin-right: 5px;
+}
+#three{
+    background-color: #6398ca;
+    width: 351px;
+    padding:2px 2px 2px 2px ;
+    float: left;
+    border: 2px solid #000;
+    text-align: center;
+    margin: 2px;
+    margin-left: 5px;
+}
+#footer{
+    background-color: rgb(8, 105, 105);
+    padding:2px 2px 2px 2px ;
+    border: 2px solid #000;
+    text-align: center;
+    margin: 2px;
+    overflow: hidden;
+}
+#one,#two,#three{
+    height: 200px;
+}
+
